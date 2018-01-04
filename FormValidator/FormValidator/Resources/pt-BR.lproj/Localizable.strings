@@ -6,14 +6,14 @@
   Copyright © 2017 S2IT Mobile. All rights reserved.
 */
 
-"US2KeyConditionViolationRange"             = "É necessário informar no mínimo %d e no máximo %d caracteres";
-"US2KeyConditionViolationNumeric"           = "Somente números são permitidos";
-"US2KeyConditionViolationAlphanumeric"      = "Não são permitidos caracteres diferentes de letras e números";
-"US2KeyConditionViolationAlphabetic"        = "São permitidos somente letras";
-"US2KeyConditionViolationEmail"             = "Informe um endereço de email válido no formato de exemplo@exemplo.com";
-"US2KeyConditionViolationURL"               = "Informe um endereço de web (URL) válido no formato de http(s)://www.exemplo.com";
-"US2KeyConditionViolationShorthandURL"      = "Informe um endereço de web (URL) válido no formato de www.exemplo.com";
-"US2KeyConditionViolationPasswordStrength"  = "A sua senha deve ser mais segura";
-"US2KeyConditionViolationPostcodeUK"        = "Informe um CEP válido";
-"US2KeyConditionViolationPresent"           = "O preenchimento deste campo é obrigatório";
-"US2KeyConditionViolationCreditCard"        = "Informe um número de cartão de crédito válido";
+"US2KeyConditionViolationRange"             = "Digite no mínimo %d e no máximo %d caracteres";
+"US2KeyConditionViolationNumeric"           = "Digite apenas números";
+"US2KeyConditionViolationAlphanumeric"      = "Digite apenas letras e números";
+"US2KeyConditionViolationAlphabetic"        = "Digite apenas letras";
+"US2KeyConditionViolationEmail"             = "Digite um endereço de e-mail válido no formato exemplo@exemplo.com";
+"US2KeyConditionViolationURL"               = "Digite uma URL válida no formato http(s)://www.exemplo.com";
+"US2KeyConditionViolationShorthandURL"      = "Digite uma URL válida no formato www.example.com";
+"US2KeyConditionViolationPasswordStrength"  = "Digite uma senha mais forte";
+"US2KeyConditionViolationPostcodeUK"        = "Digite um código postal válido";
+"US2KeyConditionViolationPresent"           = "Digite algum valor";
+"US2KeyConditionViolationCreditCard"        = "Digite um número de cartão de crédito válido";
